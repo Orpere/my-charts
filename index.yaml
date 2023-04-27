@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-27T19:44:54.504488+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 695539a97964e66b278f23a4b5e44db710390a9b38c6d2b952accf247bee87cf
+    name: nginx-test
+    type: application
+    urls:
+    - https://orpere.github.io/my-charts/packages/nginx-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-27T19:44:54.477874+01:00"
