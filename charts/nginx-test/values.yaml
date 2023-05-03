@@ -8,7 +8,7 @@ image:
   repository: orlandop43/nginx
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "0.1"
+  tag: "0d59cd908b5a8bcf0f5a85730f34cf9aeecdf7a9"
 
 imagePullSecrets: []
 nameOverride: ""
