@@ -12,3 +12,4 @@ helm repo index . --url https://<github_username>.github.io/<repo_name>
 
 ```
 
+bowse https://orpere.github.io/my-charts/
